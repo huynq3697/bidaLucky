@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">apilbg.langbagian.com</domain>
+        <domain includeSubdomains="true">langbagian.com</domain>
+        <domain includeSubdomains="true">kingbida.com</domain>
+        <domain includeSubdomains="true">s1.kingbida.com</domain>kingbidacom
+        <domain includeSubdomains="true">api.kingbida.com</domain>
+        <domain includeSubdomains="true">tai.kingbida.com</domain>
+        <domain includeSubdomains="true">firebaseapp.com</domain>
+        <domain includeSubdomains="true">kingbidacom.firebaseapp.com/</domain>
+        <domain includeSubdomains="true">chanvuong.net</domain>
+        <domain includeSubdomains="true">tai.chanvuong.net</domain>
+        <domain includeSubdomains="true">s1.chanvuong.net</domain>
+        <domain includeSubdomains="true">api.kingbida.com</domain>
+        <domain includeSubdomains="true">sime.club</domain>
+        <domain includeSubdomains="true">s1.sime.club</domain>
+        <domain includeSubdomains="true">api.sime.club</domain>
+    </domain-config>
+</network-security-config>

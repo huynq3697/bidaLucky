@@ -1,0 +1,139 @@
+
+ban1bi.png
+size: 1223,1223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 278, 13
+  size: 95, 59
+  orig: 95, 59
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1095, 521
+  size: 126, 134
+  orig: 126, 134
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 278, 74
+  size: 161, 165
+  orig: 161, 165
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 24
+  size: 215, 274
+  orig: 215, 274
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 315, 598
+  size: 277, 317
+  orig: 277, 317
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 846, 285
+  size: 247, 312
+  orig: 247, 312
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 619, 908
+  size: 270, 313
+  orig: 270, 313
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 572, 282
+  size: 272, 314
+  orig: 272, 314
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 891, 917
+  size: 257, 304
+  orig: 257, 304
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 634, 599
+  size: 267, 307
+  orig: 267, 307
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 344, 911
+  size: 273, 310
+  orig: 273, 310
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 241
+  size: 286, 318
+  orig: 286, 318
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 561
+  size: 311, 314
+  orig: 311, 314
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 290, 241
+  size: 280, 318
+  orig: 280, 318
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 909, 6
+  size: 277, 250
+  orig: 277, 250
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 903, 657
+  size: 258, 253
+  orig: 258, 253
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 595, 7
+  size: 273, 312
+  orig: 273, 312
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 441, 87
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 2, 877
+  size: 340, 344
+  orig: 340, 344
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+lucky_spin.png
+size: 987,987
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light2
+  rotate: false
+  xy: 209, 711
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+text (1)
+  rotate: false
+  xy: 2, 780
+  size: 362, 205
+  orig: 362, 205
+  offset: 0, 0
+  index: -1
+text (10)
+  rotate: false
+  xy: 573, 52
+  size: 362, 205
+  orig: 362, 205
+  offset: 0, 0
+  index: -1
+text (11)
+  rotate: true
+  xy: 780, 623
+  size: 362, 205
+  orig: 362, 205
+  offset: 0, 0
+  index: -1
+text (12)
+  rotate: true
+  xy: 780, 259
+  size: 362, 205
+  orig: 362, 205
+  offset: 0, 0
+  index: -1
+text (2)
+  rotate: true
+  xy: 366, 623
+  size: 362, 205
+  orig: 362, 205
+  offset: 0, 0
+  index: -1
+text (3)
+  rotate: true
+  xy: 2, 416
+  size: 362, 205
+  orig: 362, 205
+  offset: 0, 0
+  index: -1
+text (4)
+  rotate: false
+  xy: 209, 416
+  size: 362, 205
+  orig: 362, 205
+  offset: 0, 0
+  index: -1
+text (5)
+  rotate: true
+  xy: 573, 623
+  size: 362, 205
+  orig: 362, 205
+  offset: 0, 0
+  index: -1
+text (6)
+  rotate: true
+  xy: 573, 259
+  size: 362, 205
+  orig: 362, 205
+  offset: 0, 0
+  index: -1
+text (7)
+  rotate: false
+  xy: 2, 209
+  size: 362, 205
+  orig: 362, 205
+  offset: 0, 0
+  index: -1
+text (8)
+  rotate: true
+  xy: 366, 52
+  size: 362, 205
+  orig: 362, 205
+  offset: 0, 0
+  index: -1
+text (9)
+  rotate: false
+  xy: 2, 2
+  size: 362, 205
+  orig: 362, 205
+  offset: 0, 0
+  index: -1

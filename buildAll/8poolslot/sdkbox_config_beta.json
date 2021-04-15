@@ -1,0 +1,507 @@
+{
+    "android": {
+        "sdkboxplay": {
+            "leaderboards": [
+                {
+                    "id": "CgkI2uKny_QJEAIQBw", 
+                    "name": "ldb1"
+                }
+            ], 
+            "achievements": [
+                {
+                    "incremental": false, 
+                    "id": "CgkI0sux8sMWEAIQAg", 
+                    "name": "ten-games"
+                }, 
+                {
+                    "incremental": false, 
+                    "id": "CgkI0sux8sMWEAIQAw", 
+                    "name": "hunter"
+                }, 
+                {
+                    "incremental": false, 
+                    "id": "CgkI0sux8sMWEAIQBA", 
+                    "name": "craftsman"
+                }, 
+                {
+                    "incremental": true, 
+                    "id": "CgkI0sux8sMWEAIQBQ", 
+                    "name": "incremental"
+                }
+            ], 
+            "connect_on_start": false, 
+            "show_achievement_notification": true, 
+            "cloud_save": false, 
+            "debug": true,
+            "web_client_id": "950433497211-72dqtd31oevi13mv90371itgjcfhhakg.apps.googleusercontent.com"
+        },
+   
+        "UnityAds": {
+            "gameId": "1493045", 
+            "testMode": true
+        }, 
+        "SdkboxAds": {
+            "units": [
+                "AdColony", 
+                "AdMob", 
+                "Chartboost", 
+                "Appnext", 
+                "UnityAds"
+            ], 
+            "placements": [
+                {
+                    "units": [
+                        {
+                            "unit": "AdColony", 
+                            "name": "video", 
+                            "weight": 30
+                        }, 
+                        {
+                            "unit": "Chartboost", 
+                            "name": "Default", 
+                            "weight": 20
+                        }
+                    ], 
+                    "id": "placement-1", 
+                    "strategy": "weight"
+                }, 
+                {
+                    "units": [
+                        {
+                            "name": "v4vc", 
+                            "unit": "AdColony"
+                        }, 
+                        {
+                            "name": "Level Complete", 
+                            "unit": "Chartboost"
+                        }
+                    ], 
+                    "id": "placement-2", 
+                    "strategy": "round-robin"
+                }, 
+                {
+                    "units": [
+                        {
+                            "name": "gameover", 
+                            "unit": "AdMob"
+                        }
+                    ], 
+                    "id": "placement-admob", 
+                    "strategy": "round-robin"
+                }, 
+                {
+                    "units": [
+                        {
+                            "name": "", 
+                            "unit": "UnityAds"
+                        }
+                    ], 
+                    "id": "placement-unity", 
+                    "strategy": "round-robin"
+                }
+            ]
+        }, 
+        "iap": {
+            "items": {
+               
+                "iap4": {
+                    "id": "com.eightball.iap4"
+                }, 
+                "iap2": {
+                    "type": "non_consumable", 
+                    "id": "com.eightball.iap2"
+                }, 
+                "iap3": {
+                    "type": "non_consumable", 
+                    "id": "com.eightball.iap3"
+                }, 
+               
+                "iap1": {
+                    "type": "non_consumable", 
+                    "id": "com.eightball.iap10"
+                }, 
+               
+                "ia5": {
+                    "type": "non_consumable", 
+                    "id": "com.eightball.iap1"
+                }
+               
+            }, 
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAue2RQRncGBOFBQq2e4v7/RuEmWz0lOYOflYBde4uLxPsIclS/NDQO3co7rAGsZT99f71d5sZy1FQqdzhD5ylllIaukCROt1IutIqRFvqyKdH9HhmQ0Db+GhJQC2ijIImNSxJZhw/bX54bLERPy6GdMOt0Ekx0UUMWX4K9Od/UQqTYmCW6AyTIMtzRqfSeKPzNOqLGij7KuBOLVdrShabQCeAmcyKUVAeZIYzU9oUBsVujV3qci+LvZ4ptqH9il4ffdquZBqJezphZlXc0cMl1CBpgl+aB0t0SKR/0MudEa6EY7jg3AlwExeQ4YGp/9FY6ddFrEvbAdk0E7R77og59wIDAQAB"
+        },
+        "Appnext": {
+            "debug": true, 
+            "ads": {
+                "default": {
+                    "creative_type": "managed", 
+                    "postback": "postback", 
+                    "can_close": false, 
+                    "mute": false, 
+                    "type": "interstitial", 
+                    "cache": true, 
+                    "button_text": "Button Text", 
+                    "button_color": "#6AB344", 
+                    "skip_text": "Skip Text", 
+                    "id": "2f6850dd-190a-499d-aa50-1f4a3dd1ed5f", 
+                    "categories": "Action,Puzzle", 
+                    "autoplay": true
+                }, 
+                "fullscreen": {
+                    "cache": true, 
+                    "can_close": false, 
+                    "progress_color": "#ffffff", 
+                    "show_close_button": true, 
+                    "progress_type": "clock", 
+                    "postback": "postback", 
+                    "button_text": "Button Text", 
+                    "button_color": "#6AB344", 
+                    "kVideoLength": "short", 
+                    "type": "fullscreen", 
+                    "id": "17322152-1ef3-4e72-9677-eaf7c09f1054", 
+                    "categories": "Action,Puzzle"
+                }
+            }
+        }, 
+        "AdMob": {
+            "testdevice": "FE20924C46522E2E204587EB339897C6,kGADSimulatorID", 
+            "test": false,
+            "cache": {
+                "banner": true,
+                "rewarded": true
+            }, 
+            "ads": {
+                "interstitial": {
+                    "type": "interstitial", 
+                    "id": "ca-app-pub-3940256099942544/1033173712"
+                }, 
+                "interstitial-video": {
+                    "type": "interstitial", 
+                    "id": "ca-app-pub-3940256099942544/1033173712"
+                }, 
+                "appopen": {
+                    "type": "appopen", 
+                    "id": "ca-app-pub-4902285970438994/9148588903"
+                }, 
+                "home": {
+                    "width": 300, 
+                    "type": "banner", 
+                    "id": "ca-app-pub-3940256099942544/6300978111", 
+                    "alignment": "bottom", 
+                    "height": 100
+                }, 
+                "rewarded": {
+                    "type": "rewarded_video", 
+                    "id": "ca-app-pub-3940256099942544/5224354917"
+                }, 
+                "banner": {
+                    "type": "banner", 
+                    "id": "ca-app-pub-3940256099942544/6300978111", 
+                    "alignment": "bottom"
+                }, 
+                "bannerBottom": {
+                    "width": 700, 
+                    "type": "banner", 
+                    "id": "ca-app-pub-3940256099942544/6300978111", 
+                    "alignment": "bottom",
+                    "height": 100
+                }, 
+                "bieungu": {
+                    "type": "banner", 
+                    "id": "ca-app-pub-3940256099942544/1033173712", 
+                    "alignment": "bottom"
+                }, 
+                "rewarded-video": {
+                    "type": "rewarded_video", 
+                    "id": "ca-app-pub-3940256099942544/5224354917"
+                }
+            }, 
+            "appid": "ca-app-pub-3940256099942544~3347511713"
+        }, 
+        "Facebook": {
+            "debug": false
+        }, 
+        "Firebase": {},
+        "Appodeal": {
+            "app_key": "7acb75c06e543c3c49452f4acb0711377d77b63993cbad49"
+        }, 
+        "OneSignal": {
+            "sound": false, 
+            "vibrate": false, 
+            "project_number": "794578924806", 
+            "debug": true, 
+            "notifications_when_active": false, 
+            "id": "1ca59892-ada6-4c39-983d-8d4202f6876d"
+        }, 
+        "Chartboost": {
+            "signature": "dd2d41b69ac01b80f443f5b6cf06096d457f82bd", 
+            "id": "4f7b433509b6025804000002", 
+            "ads": {
+                "Default": {
+                    "type": "interstitial"
+                }, 
+                "Level Complete": {
+                    "type": "rewarded_video"
+                }, 
+                "MoreApp": {
+                    "type": "more_app"
+                }
+            }
+        }, 
+        "AdColony": {
+            "debug": true, 
+            "id": "app185a7e71e1714831a49ec7", 
+            "ads": {
+                "v4vc": {
+                    "v4vc": true, 
+                    "pre_popup": true, 
+                    "zone": "vz1fd5a8b2bf6841a0a4b826", 
+                    "post_popup": true
+                }, 
+                "video": {
+                    "v4vc": false, 
+                    "zone": "vz06e8c32a037749699e7050"
+                }
+            }
+        }
+    }, 
+    "ios": {
+        "sdkboxplay": {
+            "leaderboards": [
+                {
+                    "id": "ldb1", 
+                    "name": "ldb1"
+                }
+            ], 
+            "achievements": [
+                {
+                    "incremental": false, 
+                    "id": "tengames", 
+                    "name": "ten-games"
+                }, 
+                {
+                    "incremental": false, 
+                    "id": "hunter", 
+                    "name": "hunter"
+                }, 
+                {
+                    "incremental": false, 
+                    "id": "craftsman", 
+                    "name": "craftsman"
+                }, 
+                {
+                    "incremental": true, 
+                    "id": "Incremental", 
+                    "name": "incremental"
+                }, 
+                {
+                    "incremental": false, 
+                    "id": "hidden_incremental", 
+                    "name": "hidden"
+                }, 
+                {
+                    "incremental": true, 
+                    "id": "flip_cards1", 
+                    "name": "flip_cards1"
+                }, 
+                {
+                    "incremental": true, 
+                    "id": "flip_cards2", 
+                    "name": "flip_cards2"
+                }, 
+                {
+                    "incremental": true, 
+                    "id": "flip_cards3", 
+                    "name": "flip_cards3"
+                }
+            ], 
+            "connect_on_start": false, 
+            "show_achievement_notification": true, 
+            "debug": true
+        },
+        "UnityAds": {
+            "gameId": "1493044", 
+            "testMode": true
+        }, 
+        "Firebase": {},
+        "SdkboxAds": {
+            "debug": true, 
+            "units": [
+                "AdColony", 
+                "Fyber", 
+                "Chartboost", 
+                "AdMob", 
+                "Appnext", 
+                "UnityAds"
+            ], 
+            "placements": [
+                {
+                    "units": [
+                        {
+                            "unit": "AdColony", 
+                            "name": "video", 
+                            "weight": 30
+                        }, 
+                        {
+                            "unit": "Chartboost", 
+                            "name": "Default", 
+                            "weight": 20
+                        }
+                    ], 
+                    "id": "placement-1", 
+                    "strategy": "weight"
+                }, 
+                {
+                    "units": [
+                        {
+                            "name": "v4vc", 
+                            "unit": "AdColony"
+                        }, 
+                        {
+                            "name": "Level Complete", 
+                            "unit": "Chartboost"
+                        }
+                    ], 
+                    "id": "placement-2", 
+                    "strategy": "round-robin"
+                }, 
+                {
+                    "units": [
+                        {
+                            "name": "gameover", 
+                            "unit": "AdMob"
+                        }
+                    ], 
+                    "id": "placement-admob", 
+                    "strategy": "round-robin"
+                }, 
+                {
+                    "units": [
+                        {
+                            "name": "video", 
+                            "unit": "UnityAds"
+                        }
+                    ], 
+                    "id": "placement-unity", 
+                    "strategy": "round-robin"
+                }
+            ]
+        }, 
+        "iap": {
+            "simulatesAskToBuyInSandbox": true,
+            "items": {
+                "iap4": {
+                    "type": "non_consumable", 
+                    "id": "com.eightball.iap4"
+                }, 
+                "iap2": {
+                    "type": "non_consumable", 
+                    "id": "com.eightball.iap2"
+                }, 
+                "iap3": {
+                    "type": "non_consumable", 
+                    "id": "com.eightball.iap3"
+                }, 
+               
+                "iap1": {
+                    "type": "non_consumable", 
+                    "id": "com.eightball.iap10"
+                }, 
+               
+                "ia5": {
+                    "type": "non_consumable", 
+                    "id": "com.eightball.iap1"
+                }
+            }
+        }, 
+        "Appnext": {
+            "debug": true, 
+            "ads": {
+                "default": {
+                    "cache": true, 
+                    "type": "interstitial", 
+                    "id": "6d596bc5-b4c1-48ca-be95-3758fd29a3a5"
+                }
+            }
+        }, 
+        "AdMob": {
+            "testdevice": "kGADSimulatorID", 
+            "test": true, 
+            "safearea": true, 
+            "ads": {
+                "interstitial": {
+                    "type": "interstitial", 
+                    "id": "ca-app-pub-4902285970438994/3349467316"
+                }, 
+                "interstitial-video": {
+                    "type": "interstitial", 
+                    "id": "ca-app-pub-4902285970438994/3349467316"
+                }, 
+                "bieungu": {
+                    "type": "banner", 
+                    "id": "ca-app-pub-4902285970438994/1196579719"
+                }, 
+                "appopen": {
+                   
+                    "type": "appopen", 
+                    "id": "ca-app-pub-4902285970438994/9148588903"
+                    
+                }, 
+                "rewarded": {
+                    "type": "rewarded_video", 
+                    "id": "ca-app-pub-4902285970438994/9859834104"
+                }, 
+                "banner": {
+                    "type": "banner", 
+                    "id": "ca-app-pub-3940256099942544/2934735716", 
+                    "alignment": "bottom"
+                }, 
+                "rewarded-video": {
+                    "type": "rewarded_video", 
+                    "id": "ca-app-pub-4902285970438994/9859834104"
+                }
+            }, 
+            "appid": "1ca59892-ada6-4c39-983d-8d4202f6876d"
+        }, 
+        "Facebook": {
+            "debug": true
+        }, 
+        "Appodeal": {
+            "app_key": "2cfc9cc638980eb7f5ff35d6eb63dbe404503151ccc451ed"
+        }, 
+        "OneSignal": {
+            "debug": false, 
+            "id": "1ca59892-ada6-4c39-983d-8d4202f6876d", 
+            "auto_register": false
+        }, 
+        "Chartboost": {
+            "signature": "92e2de2fd7070327bdeb54c15a5295309c6fcd2d", 
+            "id": "4f21c409cd1cb2fb7000001b", 
+            "ads": {
+                "Default": {
+                    "type": "interstitial"
+                }, 
+                "Level Complete": {
+                    "type": "rewarded_video"
+                }, 
+                "MoreApp": {
+                    "type": "more_app"
+                }
+            }
+        }, 
+        "AdColony": {
+            "id": "appbdee68ae27024084bb334a", 
+            "ads": {
+                "v4vc": {
+                    "v4vc": true, 
+                    "pre_popup": true, 
+                    "zone": "vzf8e4e97704c4445c87504e", 
+                    "post_popup": true
+                }, 
+                "video": {
+                    "v4vc": false, 
+                    "zone": "vzf8fb4670a60e4a139d01b5"
+                }
+            }
+        }
+    }
+}

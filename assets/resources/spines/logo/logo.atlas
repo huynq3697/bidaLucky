@@ -1,0 +1,111 @@
+
+logo.png
+size: 517,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 258, 3
+  size: 242, 130
+  orig: 242, 130
+  offset: 0, 0
+  index: -1
+ball
+  rotate: true
+  xy: 390, 123
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+den1_sang
+  rotate: true
+  xy: 272, 247
+  size: 268, 147
+  orig: 268, 147
+  offset: 0, 0
+  index: -1
+den1_toi
+  rotate: false
+  xy: 2, 94
+  size: 254, 133
+  orig: 254, 133
+  offset: 0, 0
+  index: -1
+den2_sang
+  rotate: false
+  xy: 2, 366
+  size: 268, 149
+  orig: 268, 149
+  offset: 0, 0
+  index: -1
+den2_toi
+  rotate: false
+  xy: 2, 229
+  size: 254, 135
+  orig: 254, 135
+  offset: 0, 0
+  index: -1
+shine1
+  rotate: true
+  xy: 492, 472
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+shine2
+  rotate: true
+  xy: 432, 16
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+shine3
+  rotate: true
+  xy: 390, 37
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+shine4
+  rotate: false
+  xy: 432, 81
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+shine5
+  rotate: true
+  xy: 484, 286
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+shine6
+  rotate: true
+  xy: 492, 426
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+shineball
+  rotate: false
+  xy: 484, 254
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+text_ball
+  rotate: true
+  xy: 421, 244
+  size: 108, 61
+  orig: 108, 61
+  offset: 0, 0
+  index: -1
+text_slot
+  rotate: true
+  xy: 421, 354
+  size: 161, 69
+  orig: 161, 69
+  offset: 0, 0
+  index: -1

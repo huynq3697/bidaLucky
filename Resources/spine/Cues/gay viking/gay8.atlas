@@ -1,0 +1,76 @@
+
+gay8.png
+size: 351,351
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF8/01
+  rotate: false
+  xy: 2, 159
+  size: 172, 65
+  orig: 172, 65
+  offset: 0, 0
+  index: -1
+EF8/02
+  rotate: false
+  xy: 176, 159
+  size: 164, 65
+  orig: 164, 65
+  offset: 0, 0
+  index: -1
+EF8/03
+  rotate: false
+  xy: 2, 227
+  size: 163, 62
+  orig: 163, 62
+  offset: 0, 0
+  index: -1
+EF8/04
+  rotate: false
+  xy: 2, 291
+  size: 164, 58
+  orig: 164, 58
+  offset: 0, 0
+  index: -1
+EF8/05
+  rotate: false
+  xy: 168, 290
+  size: 167, 59
+  orig: 167, 59
+  offset: 0, 0
+  index: -1
+EF8/06
+  rotate: false
+  xy: 167, 226
+  size: 168, 62
+  orig: 168, 62
+  offset: 0, 0
+  index: -1
+EF8/07
+  rotate: false
+  xy: 2, 91
+  size: 164, 66
+  orig: 164, 66
+  offset: 0, 0
+  index: -1
+EF8/08
+  rotate: false
+  xy: 168, 89
+  size: 165, 68
+  orig: 165, 68
+  offset: 0, 0
+  index: -1
+EF8/09
+  rotate: false
+  xy: 170, 15
+  size: 179, 72
+  orig: 179, 72
+  offset: 0, 0
+  index: -1
+EF8/10
+  rotate: false
+  xy: 2, 18
+  size: 166, 69
+  orig: 166, 69
+  offset: 0, 0
+  index: -1

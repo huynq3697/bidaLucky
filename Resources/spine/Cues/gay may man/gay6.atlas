@@ -1,0 +1,76 @@
+
+gay6.png
+size: 343,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF6/01
+  rotate: false
+  xy: 149, 210
+  size: 155, 65
+  orig: 155, 65
+  offset: 0, 0
+  index: -1
+EF6/02
+  rotate: false
+  xy: 2, 278
+  size: 145, 63
+  orig: 145, 63
+  offset: 0, 0
+  index: -1
+EF6/03
+  rotate: false
+  xy: 149, 277
+  size: 146, 64
+  orig: 146, 64
+  offset: 0, 0
+  index: -1
+EF6/04
+  rotate: false
+  xy: 2, 75
+  size: 152, 66
+  orig: 152, 66
+  offset: 0, 0
+  index: -1
+EF6/05
+  rotate: false
+  xy: 2, 5
+  size: 147, 68
+  orig: 147, 68
+  offset: 0, 0
+  index: -1
+EF6/06
+  rotate: false
+  xy: 2, 143
+  size: 153, 65
+  orig: 153, 65
+  offset: 0, 0
+  index: -1
+EF6/07
+  rotate: false
+  xy: 2, 212
+  size: 145, 64
+  orig: 145, 64
+  offset: 0, 0
+  index: -1
+EF6/08
+  rotate: false
+  xy: 157, 143
+  size: 148, 65
+  orig: 148, 65
+  offset: 0, 0
+  index: -1
+EF6/09
+  rotate: false
+  xy: 156, 74
+  size: 148, 67
+  orig: 148, 67
+  offset: 0, 0
+  index: -1
+EF6/10
+  rotate: false
+  xy: 151, 2
+  size: 150, 70
+  orig: 150, 70
+  offset: 0, 0
+  index: -1

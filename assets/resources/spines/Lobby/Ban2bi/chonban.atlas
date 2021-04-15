@@ -1,0 +1,104 @@
+
+chonban.png
+size: 1022,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 263, 354
+  size: 263, 254
+  orig: 263, 254
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 258, 81
+  size: 271, 254
+  orig: 271, 254
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 571, 514
+  size: 257, 252
+  orig: 257, 252
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 514, 2
+  size: 271, 254
+  orig: 271, 254
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 2, 438
+  size: 259, 252
+  orig: 259, 252
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 2, 172
+  size: 264, 254
+  orig: 264, 254
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 528, 258
+  size: 278, 254
+  orig: 278, 254
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 602, 768
+  size: 261, 252
+  orig: 261, 252
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 272, 610
+  size: 297, 252
+  orig: 297, 252
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 692
+  size: 268, 252
+  orig: 268, 252
+  offset: 0, 0
+  index: -1
+ball1
+  rotate: true
+  xy: 441, 864
+  size: 156, 159
+  orig: 156, 159
+  offset: 0, 0
+  index: -1
+ball2
+  rotate: false
+  xy: 287, 868
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+day1
+  rotate: true
+  xy: 2, 954
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+day2
+  rotate: false
+  xy: 183, 946
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: -1

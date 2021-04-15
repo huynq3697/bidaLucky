@@ -1,0 +1,413 @@
+{
+"skeleton": {
+	"hash": "PPRCkcCdxWnwcmOK4mqCDQ08e5g",
+	"spine": "3.8.99",
+	"x": -125.44,
+	"y": 291.75,
+	"width": 251.27,
+	"height": 312.25,
+	"images": "./images/",
+	"audio": "E:/Tùng/SPINE/Dream City/Lucky spin"
+},
+"bones": [
+	{ "name": "root", "y": 1000 },
+	{ "name": "bone", "parent": "root", "x": 6.45, "y": -561.08, "scaleX": 0.2986, "scaleY": 0.2986 },
+	{ "name": "bone2", "parent": "root", "x": 3.54, "y": -557.08, "scaleX": 1.2608, "scaleY": 1.2608 }
+],
+"slots": [
+	{ "name": "root", "bone": "root", "attachment": "root" },
+	{ "name": "khung_spin", "bone": "bone", "attachment": "khung_spin" },
+	{ "name": "light2", "bone": "bone", "attachment": "light2" },
+	{ "name": "light12", "bone": "bone", "attachment": "light2" },
+	{ "name": "light11", "bone": "bone", "attachment": "light2" },
+	{ "name": "light10", "bone": "bone", "attachment": "light2" },
+	{ "name": "light9", "bone": "bone", "attachment": "light2" },
+	{ "name": "light8", "bone": "bone", "attachment": "light2" },
+	{ "name": "light7", "bone": "bone", "attachment": "light2" },
+	{ "name": "light6", "bone": "bone", "attachment": "light2" },
+	{ "name": "light5", "bone": "bone", "attachment": "light2" },
+	{ "name": "light4", "bone": "bone", "attachment": "light2" },
+	{ "name": "light3", "bone": "bone", "attachment": "light2" },
+	{ "name": "vong_quay", "bone": "bone", "attachment": "vong_quay" },
+	{ "name": "spin", "bone": "bone", "attachment": "spin" },
+	{ "name": "btn_spin", "bone": "bone", "attachment": "btn_spin" },
+	{ "name": "text", "bone": "bone" },
+	{ "name": "thanh_spin", "bone": "bone", "attachment": "thanh_spin" },
+	{ "name": "1", "bone": "bone2", "attachment": "19" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"1": { "x": 2.28, "y": 7.11, "width": 263, "height": 254 },
+				"3": { "x": 2.28, "y": 7.11, "width": 278, "height": 254 },
+				"5": { "x": 2.28, "y": 7.11, "width": 261, "height": 252 },
+				"7": { "x": 2.28, "y": 7.11, "width": 297, "height": 252 },
+				"9": { "x": 2.28, "y": 7.11, "width": 268, "height": 252 },
+				"11": { "x": 2.28, "y": 7.11, "width": 271, "height": 254 },
+				"13": { "x": 2.28, "y": 7.11, "width": 257, "height": 252 },
+				"15": { "x": 2.28, "y": 7.11, "width": 271, "height": 254 },
+				"17": { "x": 2.28, "y": 7.11, "width": 259, "height": 252 },
+				"19": { "x": 2.28, "y": 7.11, "width": 264, "height": 254 }
+			},
+			"btn_spin": {
+				"btn_spin": { "x": -4.8, "y": -3.76, "width": 175, "height": 175 }
+			},
+			"khung_spin": {
+				"khung_spin": { "x": -5.3, "y": -3.26, "width": 778, "height": 782 }
+			},
+			"light2": {
+				"light2": { "x": 178.86, "y": 313.47, "width": 67, "height": 67 }
+			},
+			"light3": {
+				"light2": { "x": -183.26, "y": 313.33, "width": 67, "height": 67 }
+			},
+			"light4": {
+				"light2": { "x": -317.37, "y": 179.74, "width": 67, "height": 67 }
+			},
+			"light5": {
+				"light2": { "x": -372.92, "y": -3.12, "width": 67, "height": 67 }
+			},
+			"light6": {
+				"light2": { "x": -317.36, "y": -184.94, "width": 67, "height": 67 }
+			},
+			"light7": {
+				"light2": { "x": -181.32, "y": -315.66, "width": 67, "height": 67 }
+			},
+			"light8": {
+				"light2": { "x": -4.24, "y": -371.14, "width": 67, "height": 67 }
+			},
+			"light9": {
+				"light2": { "x": 178.16, "y": -315.66, "width": 67, "height": 67 }
+			},
+			"light10": {
+				"light2": { "x": 310.4, "y": -182.66, "width": 67, "height": 67 }
+			},
+			"light11": {
+				"light2": { "x": 359.8, "y": -3.3, "width": 67, "height": 67 }
+			},
+			"light12": {
+				"light2": { "x": 311.16, "y": 180.62, "width": 67, "height": 67 }
+			},
+			"root": {
+				"root": {
+					"type": "clipping",
+					"end": "root",
+					"vertexCount": 4,
+					"vertices": [ -124.12, -395.99, -125.45, -710.25, 125.83, -706.94, 125.83, -397.32 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"spin": {
+				"spin": { "x": -4.8, "y": -3.76, "width": 215, "height": 215 }
+			},
+			"text": {
+				"text (12)": { "x": -6.45, "y": 426.89, "width": 362, "height": 205 }
+			},
+			"thanh_spin": {
+				"thanh_spin": { "x": -5.3, "y": 314.74, "width": 84, "height": 176 }
+			},
+			"vong_quay": {
+				"vong_quay": { "x": -2.8, "y": -3.76, "width": 659, "height": 639 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"1": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "color": "ffffffb3", "curve": "stepped" },
+					{ "time": 0.6667, "color": "ffffffb3", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "color": "ffffffb3", "curve": "stepped" },
+					{ "time": 1.6667, "color": "ffffffb3", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3333, "color": "ffffffb3", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffffb3", "curve": 0.25, "c3": 0.75 },
+					{ "time": 3, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 3.6667, "color": "ffffffff" },
+					{ "time": 4, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "1" },
+					{ "time": 0.0667, "name": "3" },
+					{ "time": 0.1333, "name": "5" },
+					{ "time": 0.2, "name": "7" },
+					{ "time": 0.2667, "name": "9" },
+					{ "time": 0.3333, "name": "11" },
+					{ "time": 0.4, "name": "13" },
+					{ "time": 0.4667, "name": "15" },
+					{ "time": 0.5333, "name": "17" },
+					{ "time": 0.6, "name": "19" },
+					{ "time": 0.6667, "name": "1" },
+					{ "time": 0.7333, "name": "3" },
+					{ "time": 0.8, "name": "5" },
+					{ "time": 0.8667, "name": "7" },
+					{ "time": 0.9333, "name": "9" },
+					{ "time": 1, "name": "11" },
+					{ "time": 1.0667, "name": "13" },
+					{ "time": 1.1333, "name": "15" },
+					{ "time": 1.2, "name": "17" },
+					{ "time": 1.2667, "name": "19" },
+					{ "time": 1.3333, "name": "1" },
+					{ "time": 1.4, "name": "3" },
+					{ "time": 1.4667, "name": "5" },
+					{ "time": 1.5333, "name": "7" },
+					{ "time": 1.6, "name": "9" },
+					{ "time": 1.6667, "name": "11" },
+					{ "time": 1.7333, "name": "13" },
+					{ "time": 1.8, "name": "15" },
+					{ "time": 1.8667, "name": "17" },
+					{ "time": 1.9333, "name": "19" },
+					{ "time": 2, "name": "11" },
+					{ "time": 2.0667, "name": "3" },
+					{ "time": 2.1333, "name": "5" },
+					{ "time": 2.2, "name": "7" },
+					{ "time": 2.2667, "name": "9" },
+					{ "time": 2.3333, "name": "1" },
+					{ "time": 2.4, "name": "13" },
+					{ "time": 2.4667, "name": "15" },
+					{ "time": 2.5333, "name": "17" },
+					{ "time": 2.6, "name": "19" },
+					{ "time": 2.6667, "name": "11" },
+					{ "time": 2.7333, "name": "3" },
+					{ "time": 2.8, "name": "5" },
+					{ "time": 2.8667, "name": "7" },
+					{ "time": 2.9333, "name": "9" },
+					{ "time": 3, "name": "1" },
+					{ "time": 3.0667, "name": "13" },
+					{ "time": 3.1333, "name": "15" },
+					{ "time": 3.2, "name": "17" },
+					{ "time": 3.2667, "name": "19" },
+					{ "time": 3.4, "name": "3" },
+					{ "time": 3.4667, "name": "5" },
+					{ "time": 3.5333, "name": "7" },
+					{ "time": 3.6, "name": "9" },
+					{ "time": 3.7333, "name": "13" },
+					{ "time": 3.8, "name": "15" },
+					{ "time": 3.8667, "name": "17" },
+					{ "time": 3.9333, "name": "19" }
+				]
+			},
+			"light2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "light2" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "light2" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 0.8333, "name": "light2" },
+					{ "time": 1, "name": null },
+					{ "time": 2.6667, "name": "light2" },
+					{ "time": 2.8333, "name": null },
+					{ "time": 3, "name": "light2" },
+					{ "time": 3.1667, "name": null },
+					{ "time": 3.3333, "name": "light2" },
+					{ "time": 3.5, "name": null },
+					{ "time": 3.6667, "name": "light2" },
+					{ "time": 3.8333, "name": null },
+					{ "time": 4, "name": "light2" }
+				]
+			},
+			"light3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "light2" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "light2" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 2.5, "name": "light2" },
+					{ "time": 2.8333, "name": null },
+					{ "time": 3, "name": "light2" },
+					{ "time": 3.1667, "name": null },
+					{ "time": 3.3333, "name": "light2" },
+					{ "time": 3.5, "name": null },
+					{ "time": 3.6667, "name": "light2" },
+					{ "time": 3.8333, "name": null },
+					{ "time": 4, "name": "light2" }
+				]
+			},
+			"light4": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "light2" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "light2" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 2.3333, "name": "light2" },
+					{ "time": 2.5, "name": null },
+					{ "time": 2.8333, "name": "light2" },
+					{ "time": 3, "name": null },
+					{ "time": 3.1667, "name": "light2" },
+					{ "time": 3.3333, "name": null },
+					{ "time": 3.5, "name": "light2" },
+					{ "time": 3.6667, "name": null },
+					{ "time": 3.8333, "name": "light2" }
+				]
+			},
+			"light5": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "light2" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "light2" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 2.1667, "name": "light2" },
+					{ "time": 2.3333, "name": null },
+					{ "time": 2.6667, "name": "light2" },
+					{ "time": 2.8333, "name": null },
+					{ "time": 3, "name": "light2" },
+					{ "time": 3.1667, "name": null },
+					{ "time": 3.3333, "name": "light2" },
+					{ "time": 3.5, "name": null },
+					{ "time": 3.6667, "name": "light2" },
+					{ "time": 3.8333, "name": null },
+					{ "time": 4, "name": "light2" }
+				]
+			},
+			"light6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "light2" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "light2" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 2, "name": "light2" },
+					{ "time": 2.1667, "name": null },
+					{ "time": 2.8333, "name": "light2" },
+					{ "time": 3, "name": null },
+					{ "time": 3.1667, "name": "light2" },
+					{ "time": 3.3333, "name": null },
+					{ "time": 3.5, "name": "light2" },
+					{ "time": 3.6667, "name": null },
+					{ "time": 3.8333, "name": "light2" }
+				]
+			},
+			"light7": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "light2" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "light2" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 1.8333, "name": "light2" },
+					{ "time": 2, "name": null },
+					{ "time": 2.6667, "name": "light2" },
+					{ "time": 2.8333, "name": null },
+					{ "time": 3, "name": "light2" },
+					{ "time": 3.1667, "name": null },
+					{ "time": 3.3333, "name": "light2" },
+					{ "time": 3.5, "name": null },
+					{ "time": 3.6667, "name": "light2" },
+					{ "time": 3.8333, "name": null },
+					{ "time": 4, "name": "light2" }
+				]
+			},
+			"light8": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "light2" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "light2" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 1.6667, "name": "light2" },
+					{ "time": 1.8333, "name": null },
+					{ "time": 2.8333, "name": "light2" },
+					{ "time": 3, "name": null },
+					{ "time": 3.1667, "name": "light2" },
+					{ "time": 3.3333, "name": null },
+					{ "time": 3.5, "name": "light2" },
+					{ "time": 3.6667, "name": null },
+					{ "time": 3.8333, "name": "light2" }
+				]
+			},
+			"light9": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "light2" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "light2" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 1.5, "name": "light2" },
+					{ "time": 1.6667, "name": null },
+					{ "time": 2.6667, "name": "light2" },
+					{ "time": 2.8333, "name": null },
+					{ "time": 3, "name": "light2" },
+					{ "time": 3.1667, "name": null },
+					{ "time": 3.3333, "name": "light2" },
+					{ "time": 3.5, "name": null },
+					{ "time": 3.6667, "name": "light2" },
+					{ "time": 3.8333, "name": null },
+					{ "time": 4, "name": "light2" }
+				]
+			},
+			"light10": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "light2" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "light2" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 1.3333, "name": "light2" },
+					{ "time": 1.5, "name": null },
+					{ "time": 2.8333, "name": "light2" },
+					{ "time": 3, "name": null },
+					{ "time": 3.1667, "name": "light2" },
+					{ "time": 3.3333, "name": null },
+					{ "time": 3.5, "name": "light2" },
+					{ "time": 3.6667, "name": null },
+					{ "time": 3.8333, "name": "light2" }
+				]
+			},
+			"light11": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "light2" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "light2" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 1.1667, "name": "light2" },
+					{ "time": 1.3333, "name": null },
+					{ "time": 2.6667, "name": "light2" },
+					{ "time": 2.8333, "name": null },
+					{ "time": 3, "name": "light2" },
+					{ "time": 3.1667, "name": null },
+					{ "time": 3.3333, "name": "light2" },
+					{ "time": 3.5, "name": null },
+					{ "time": 3.6667, "name": "light2" },
+					{ "time": 3.8333, "name": null },
+					{ "time": 4, "name": "light2" }
+				]
+			},
+			"light12": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "light2" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "light2" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 1, "name": "light2" },
+					{ "time": 1.1667, "name": null },
+					{ "time": 2.8333, "name": "light2" },
+					{ "time": 3, "name": null },
+					{ "time": 3.1667, "name": "light2" },
+					{ "time": 3.3333, "name": null },
+					{ "time": 3.5, "name": "light2" },
+					{ "time": 3.6667, "name": null },
+					{ "time": 3.8333, "name": "light2" }
+				]
+			},
+			"text": {
+				"attachment": [
+					{ "time": 0.7333, "name": "text (12)" }
+				]
+			}
+		}
+	}
+}
+}

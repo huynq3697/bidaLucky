@@ -1,0 +1,76 @@
+
+gay4.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF4/01
+  rotate: false
+  xy: 141, 164
+  size: 144, 67
+  orig: 144, 67
+  offset: 0, 0
+  index: -1
+EF4/02
+  rotate: false
+  xy: 2, 235
+  size: 138, 65
+  orig: 138, 65
+  offset: 0, 0
+  index: -1
+EF4/03
+  rotate: false
+  xy: 141, 94
+  size: 151, 68
+  orig: 151, 68
+  offset: 0, 0
+  index: -1
+EF4/04
+  rotate: false
+  xy: 142, 299
+  size: 134, 63
+  orig: 134, 63
+  offset: 0, 0
+  index: -1
+EF4/05
+  rotate: false
+  xy: 2, 166
+  size: 137, 67
+  orig: 137, 67
+  offset: 0, 0
+  index: -1
+EF4/06
+  rotate: false
+  xy: 2, 96
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+EF4/07
+  rotate: true
+  xy: 294, 94
+  size: 135, 68
+  orig: 135, 68
+  offset: 0, 0
+  index: -1
+EF4/08
+  rotate: false
+  xy: 142, 233
+  size: 143, 64
+  orig: 143, 64
+  offset: 0, 0
+  index: -1
+EF4/09
+  rotate: false
+  xy: 2, 302
+  size: 138, 60
+  orig: 138, 60
+  offset: 0, 0
+  index: -1
+EF4/10
+  rotate: true
+  xy: 287, 231
+  size: 131, 72
+  orig: 131, 72
+  offset: 0, 0
+  index: -1

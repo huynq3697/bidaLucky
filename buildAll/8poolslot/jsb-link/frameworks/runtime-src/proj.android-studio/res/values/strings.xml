@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name" translatable="false">8 Ball SLot</string>
+    <string name="facebook_app_id">3955755917015411</string>
+    <string name="fb_login_protocol_scheme">3955755917015411</string>
+    <string name="google_app_id_2">950433497211</string>
+    <string name="google_app_id">950433497211</string>
+</resources>

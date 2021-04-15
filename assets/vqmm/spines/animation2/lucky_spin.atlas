@@ -1,0 +1,13 @@
+
+lucky_spin.png
+size: 1038,1038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 2
+  size: 1032, 1034
+  orig: 1032, 1034
+  offset: 0, 0
+  index: -1

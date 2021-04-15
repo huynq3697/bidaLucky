@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "afBPiE9dRu4xDAZixNKrfTebE3s",
+	"spine": "3.8.99",
+	"x": -290.15,
+	"y": -40.15,
+	"width": 653.36,
+	"height": 120.99,
+	"images": "../Effect/gaymayman/",
+	"audio": "E:/Vuong/8 pool slot/Spine/Effect/gaymayman"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "rotation": -90.17, "x": -268.21, "y": 29.1 }
+],
+"slots": [
+	{ "name": "Layer 1", "bone": "bone", "attachment": "Layer 12" },
+	{ "name": "Layer 2", "bone": "bone", "attachment": "Layer 12" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 1": {
+				"Layer 1": { "x": 4.83, "y": 293.26, "width": 127, "height": 674 },
+				"Layer 2": { "x": 4.83, "y": 303.76, "width": 125, "height": 651 },
+				"Layer 3": { "x": 5.33, "y": 306.26, "width": 122, "height": 648 },
+				"Layer 4": { "x": 4.83, "y": 243.76, "width": 125, "height": 767 },
+				"Layer 5": { "x": 3.33, "y": 306.76, "width": 116, "height": 639 },
+				"Layer 6": { "x": 0.83, "y": 302.26, "width": 125, "height": 656 },
+				"Layer 7": { "x": -0.17, "y": 300.76, "width": 121, "height": 631 },
+				"Layer 8": { "x": 2.33, "y": 304.26, "width": 128, "height": 644 },
+				"Layer 9": { "x": 2.83, "y": 303.26, "width": 127, "height": 646 },
+				"Layer 10": { "x": 3.83, "y": 305.26, "width": 127, "height": 642 },
+				"Layer 11": { "x": 3.83, "y": 307.26, "width": 129, "height": 648 },
+				"Layer 12": { "x": 7.83, "y": 304.76, "width": 119, "height": 653 }
+			},
+			"Layer 2": {
+				"Layer 1": { "x": 4.83, "y": 293.26, "width": 127, "height": 674 },
+				"Layer 2": { "x": 4.83, "y": 303.76, "width": 125, "height": 651 },
+				"Layer 3": { "x": 5.33, "y": 306.26, "width": 122, "height": 648 },
+				"Layer 4": { "x": 4.83, "y": 243.76, "width": 125, "height": 767 },
+				"Layer 5": { "x": 3.33, "y": 306.76, "width": 116, "height": 639 },
+				"Layer 6": { "x": 0.83, "y": 302.26, "width": 125, "height": 656 },
+				"Layer 7": { "x": -0.17, "y": 300.76, "width": 121, "height": 631 },
+				"Layer 8": { "x": 2.33, "y": 304.26, "width": 128, "height": 644 },
+				"Layer 9": { "x": 2.83, "y": 303.26, "width": 127, "height": 646 },
+				"Layer 10": { "x": 3.83, "y": 305.26, "width": 127, "height": 642 },
+				"Layer 11": { "x": 3.83, "y": 307.26, "width": 129, "height": 648 },
+				"Layer 12": { "x": 7.83, "y": 304.76, "width": 119, "height": 653 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"Layer 1": {
+				"attachment": [
+					{ "name": "Layer 1" },
+					{ "time": 0.0667, "name": "Layer 2" },
+					{ "time": 0.1333, "name": "Layer 3" },
+					{ "time": 0.2, "name": "Layer 4" },
+					{ "time": 0.2667, "name": "Layer 5" },
+					{ "time": 0.3333, "name": "Layer 6" },
+					{ "time": 0.4, "name": "Layer 7" },
+					{ "time": 0.4667, "name": "Layer 8" },
+					{ "time": 0.5333, "name": "Layer 9" },
+					{ "time": 0.6, "name": "Layer 10" },
+					{ "time": 0.6667, "name": "Layer 11" },
+					{ "time": 0.7333, "name": "Layer 12" },
+					{ "time": 0.8, "name": "Layer 1" }
+				]
+			},
+			"Layer 2": {
+				"attachment": [
+					{ "name": "Layer 8" },
+					{ "time": 0.0667, "name": "Layer 9" },
+					{ "time": 0.1333, "name": "Layer 10" },
+					{ "time": 0.2, "name": "Layer 11" },
+					{ "time": 0.2667, "name": "Layer 12" },
+					{ "time": 0.3333, "name": "Layer 1" },
+					{ "time": 0.4, "name": "Layer 2" },
+					{ "time": 0.4667, "name": "Layer 3" },
+					{ "time": 0.5333, "name": "Layer 4" },
+					{ "time": 0.6, "name": "Layer 5" },
+					{ "time": 0.6667, "name": "Layer 6" },
+					{ "time": 0.7333, "name": "Layer 7" },
+					{ "time": 0.8, "name": "Layer 8" }
+				]
+			}
+		}
+	}
+}
+}

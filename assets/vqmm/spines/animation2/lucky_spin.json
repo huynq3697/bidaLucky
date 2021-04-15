@@ -1,0 +1,31 @@
+{
+"skeleton": { "hash": "lg/ei+aoZv/PnJ2nJykaEpxJ5q4", "spine": "3.7.94", "width": 1032, "height": 1034, "images": "./images/", "audio": "E:/Tùng/SPINE/Dream City/Lucky spin" },
+"bones": [
+	{ "name": "root", "y": 1000 },
+	{ "name": "light", "parent": "root", "x": 6.54, "y": -427.76 }
+],
+"slots": [
+	{ "name": "light", "bone": "light", "attachment": "light" }
+],
+"skins": {
+	"default": {
+		"light": {
+			"light": { "x": -5.4, "y": 37.61, "width": 1032, "height": 1034 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"light": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.3333, "angle": -120 },
+					{ "time": 2.6667, "angle": 120 },
+					{ "time": 4, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

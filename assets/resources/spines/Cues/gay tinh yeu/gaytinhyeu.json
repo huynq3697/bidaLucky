@@ -1,0 +1,86 @@
+{
+"skeleton": {
+	"hash": "RtrpUXh2D2NmoYUP3Q/fh/kxaYQ",
+	"spine": "3.8.99",
+	"x": -288.78,
+	"y": -33.42,
+	"width": 202,
+	"height": 114.93,
+	"images": "../Effect/gaytinhyeu/",
+	"audio": "E:/Vuong/Spine/Element/Fire5"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "rotation": 180, "x": -273.29, "y": 24.76, "scaleY": 0.5421 }
+],
+"slots": [
+	{ "name": "pic0000", "bone": "bone", "attachment": "pic0052" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"pic0000": {
+				"pic0000": { "x": -107.51, "y": 4.81, "width": 224, "height": 239 },
+				"pic0002": { "x": -129.01, "y": 4.81, "width": 257, "height": 243 },
+				"pic0004": { "x": -148.51, "y": 4.81, "width": 296, "height": 247 },
+				"pic0006": { "x": -168.51, "y": 5.31, "width": 326, "height": 246 },
+				"pic0008": { "x": -226.51, "y": 12.81, "width": 332, "height": 229 },
+				"pic0012": { "x": -253.51, "y": 15.31, "width": 416, "height": 156 },
+				"pic0016": { "x": -300.01, "y": 3.31, "width": 439, "height": 138 },
+				"pic0018": { "x": -277.01, "y": 9.31, "width": 579, "height": 154 },
+				"pic0020": { "x": -276.01, "y": 8.31, "width": 583, "height": 154 },
+				"pic0022": { "x": -275.01, "y": 0.81, "width": 583, "height": 173 },
+				"pic0024": { "x": -274.51, "y": 0.81, "width": 580, "height": 211 },
+				"pic0026": { "x": -280.01, "y": 4.81, "width": 569, "height": 239 },
+				"pic0030": { "x": -281.51, "y": 4.81, "width": 560, "height": 243 },
+				"pic0032": { "x": -304.51, "y": 5.31, "width": 514, "height": 246 },
+				"pic0034": { "x": -317.51, "y": 5.31, "width": 478, "height": 246 },
+				"pic0036": { "x": -347.51, "y": 9.31, "width": 314, "height": 238 },
+				"pic0038": { "x": -371.01, "y": 13.31, "width": 313, "height": 190 },
+				"pic0040": { "x": -390.01, "y": -0.69, "width": 301, "height": 134 },
+				"pic0042": { "x": -416.51, "y": -11.69, "width": 298, "height": 108 },
+				"pic0044": { "x": -422.01, "y": -6.69, "width": 239, "height": 98 },
+				"pic0046": { "x": -266.01, "y": 0.31, "width": 561, "height": 106 },
+				"pic0048": { "x": -270.01, "y": 2.31, "width": 571, "height": 108 },
+				"pic0050": { "x": -264.51, "y": -1.19, "width": 564, "height": 167 },
+				"pic0052": { "x": -85.51, "y": 1.31, "width": 202, "height": 212 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"pic0000": {
+				"attachment": [
+					{ "name": "pic0000" },
+					{ "time": 0.0667, "name": "pic0002" },
+					{ "time": 0.1333, "name": "pic0004" },
+					{ "time": 0.2, "name": "pic0006" },
+					{ "time": 0.2667, "name": "pic0008" },
+					{ "time": 0.3333, "name": "pic0012" },
+					{ "time": 0.4, "name": "pic0016" },
+					{ "time": 0.4667, "name": "pic0018" },
+					{ "time": 0.5333, "name": "pic0020" },
+					{ "time": 0.6, "name": "pic0022" },
+					{ "time": 0.6667, "name": "pic0024" },
+					{ "time": 0.7333, "name": "pic0026" },
+					{ "time": 0.8, "name": "pic0030" },
+					{ "time": 0.8667, "name": "pic0032" },
+					{ "time": 0.9333, "name": "pic0034" },
+					{ "time": 1, "name": "pic0036" },
+					{ "time": 1.0667, "name": "pic0038" },
+					{ "time": 1.1333, "name": "pic0040" },
+					{ "time": 1.2, "name": "pic0042" },
+					{ "time": 1.2667, "name": "pic0044" },
+					{ "time": 1.3333, "name": "pic0046" },
+					{ "time": 1.4, "name": "pic0048" },
+					{ "time": 1.4667, "name": "pic0050" },
+					{ "time": 1.5333, "name": "pic0052" }
+				]
+			}
+		}
+	}
+}
+}

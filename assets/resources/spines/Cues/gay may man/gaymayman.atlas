@@ -1,0 +1,90 @@
+
+gaymayman.png
+size: 1135,1135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 129, 459
+  size: 127, 674
+  orig: 127, 674
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 514, 370
+  size: 127, 642
+  orig: 127, 642
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: true
+  xy: 2, 235
+  size: 129, 648
+  orig: 129, 648
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: true
+  xy: 385, 1014
+  size: 119, 653
+  orig: 119, 653
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 761, 361
+  size: 125, 651
+  orig: 125, 651
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 888, 364
+  size: 122, 648
+  orig: 122, 648
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 366
+  size: 125, 767
+  orig: 125, 767
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 643, 373
+  size: 116, 639
+  orig: 116, 639
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 258, 477
+  size: 125, 656
+  orig: 125, 656
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 1012, 381
+  size: 121, 631
+  orig: 121, 631
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 2, 105
+  size: 128, 644
+  orig: 128, 644
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 385, 366
+  size: 127, 646
+  orig: 127, 646
+  offset: 0, 0
+  index: -1

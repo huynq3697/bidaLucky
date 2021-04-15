@@ -1,0 +1,83 @@
+
+vong_tron_muc_tieu.png
+size: 455,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bia1
+  rotate: false
+  xy: 139, 412
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Bia1b
+  rotate: false
+  xy: 2, 436
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Bia2
+  rotate: false
+  xy: 240, 373
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Bia2b
+  rotate: false
+  xy: 182, 397
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Bia3
+  rotate: true
+  xy: 2, 303
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+Bia3b
+  rotate: true
+  xy: 322, 367
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+Bia4
+  rotate: false
+  xy: 253, 215
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Bia4b
+  rotate: false
+  xy: 115, 235
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+Bia5
+  rotate: false
+  xy: 201, 2
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+Bia5b
+  rotate: false
+  xy: 2, 36
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+xoaytron
+  rotate: true
+  xy: 21, 415
+  size: 38, 116
+  orig: 38, 116
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+gayanhsang.png
+size: 1323,1323
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 201, 658
+  orig: 201, 658
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 662
+  size: 211, 659
+  orig: 211, 659
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 215, 671
+  size: 194, 650
+  orig: 194, 650
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 411, 675
+  size: 203, 646
+  orig: 203, 646
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 396, 19
+  size: 194, 650
+  orig: 194, 650
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 205, 5
+  size: 189, 655
+  orig: 189, 655
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 592, 29
+  size: 184, 644
+  orig: 184, 644
+  offset: 0, 0
+  index: -1

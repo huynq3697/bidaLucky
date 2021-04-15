@@ -1,0 +1,157 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gift",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8,
+  "sample": 60,
+  "speed": 2,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d281b1fd-e9ba-404b-8c47-ca6bd7d61433"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 8,
+          "value": -360
+        }
+      ]
+    },
+    "paths": {
+      "gìft": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "cf7518a7-04e5-47f1-a9d5-488a80047d55"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 8,
+              "value": 360
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1.1
+            },
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 1.2
+            },
+            {
+              "frame": 3,
+              "value": 1
+            },
+            {
+              "frame": 4,
+              "value": 1.1
+            },
+            {
+              "frame": 5,
+              "value": 1
+            },
+            {
+              "frame": 6,
+              "value": 1.2
+            },
+            {
+              "frame": 7,
+              "value": 1
+            },
+            {
+              "frame": 8,
+              "value": 1.2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.9
+            },
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 0.9
+            },
+            {
+              "frame": 3,
+              "value": 1
+            },
+            {
+              "frame": 4,
+              "value": 0.9
+            },
+            {
+              "frame": 5,
+              "value": 1
+            },
+            {
+              "frame": 6,
+              "value": 0.9
+            },
+            {
+              "frame": 7,
+              "value": 1
+            },
+            {
+              "frame": 8,
+              "value": 0.9
+            }
+          ],
+          "anchorY": [
+            {
+              "frame": 0,
+              "value": 0.5
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,118 @@
+
+gaysamset.png
+size: 1251,1251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 289, 404
+  size: 205, 613
+  orig: 205, 613
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 32
+  size: 128, 570
+  orig: 128, 570
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 904, 2
+  size: 121, 619
+  orig: 121, 619
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 267, 611
+  size: 150, 638
+  orig: 150, 638
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 186, 341
+  size: 101, 261
+  orig: 101, 261
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 186, 186
+  size: 153, 623
+  orig: 153, 623
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 132, 15
+  size: 163, 634
+  orig: 163, 634
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 859, 623
+  size: 147, 626
+  orig: 147, 626
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 419, 613
+  size: 152, 636
+  orig: 152, 636
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 712, 619
+  size: 145, 630
+  orig: 145, 630
+  offset: 0, 0
+  index: -1
+31
+  rotate: false
+  xy: 2, 604
+  size: 137, 645
+  orig: 137, 645
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 141, 604
+  size: 124, 645
+  orig: 124, 645
+  offset: 0, 0
+  index: -1
+35
+  rotate: false
+  xy: 132, 180
+  size: 52, 422
+  orig: 52, 422
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1008, 627
+  size: 153, 622
+  orig: 153, 622
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1027, 3
+  size: 133, 622
+  orig: 133, 622
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 573, 613
+  size: 137, 636
+  orig: 137, 636
+  offset: 0, 0
+  index: -1

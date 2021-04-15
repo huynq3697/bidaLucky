@@ -1,0 +1,76 @@
+
+gay1.png
+size: 608,608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF1/01
+  rotate: false
+  xy: 2, 359
+  size: 167, 84
+  orig: 167, 84
+  offset: 0, 0
+  index: -1
+EF1/02
+  rotate: false
+  xy: 336, 439
+  size: 171, 83
+  orig: 171, 83
+  offset: 0, 0
+  index: -1
+EF1/03
+  rotate: false
+  xy: 338, 524
+  size: 183, 82
+  orig: 183, 82
+  offset: 0, 0
+  index: -1
+EF1/04
+  rotate: false
+  xy: 171, 354
+  size: 196, 83
+  orig: 196, 83
+  offset: 0, 0
+  index: -1
+EF1/05
+  rotate: false
+  xy: 181, 527
+  size: 155, 79
+  orig: 155, 79
+  offset: 0, 0
+  index: -1
+EF1/06
+  rotate: false
+  xy: 2, 529
+  size: 177, 77
+  orig: 177, 77
+  offset: 0, 0
+  index: -1
+EF1/07
+  rotate: false
+  xy: 173, 442
+  size: 161, 83
+  orig: 161, 83
+  offset: 0, 0
+  index: -1
+EF1/08
+  rotate: false
+  xy: 2, 445
+  size: 169, 82
+  orig: 169, 82
+  offset: 0, 0
+  index: -1
+EF1/09
+  rotate: true
+  xy: 523, 446
+  size: 160, 83
+  orig: 160, 83
+  offset: 0, 0
+  index: -1
+EF1/10
+  rotate: false
+  xy: 369, 352
+  size: 174, 85
+  orig: 174, 85
+  offset: 0, 0
+  index: -1

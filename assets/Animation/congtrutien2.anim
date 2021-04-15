@@ -1,0 +1,127 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "congtrutien2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.25,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0.16666666666666666,
+          "value": 534.602
+        },
+        {
+          "frame": 0.3,
+          "value": 520
+        },
+        {
+          "frame": 0.45,
+          "value": 510
+        },
+        {
+          "frame": 0.5833333333333334,
+          "value": 520
+        },
+        {
+          "frame": 0.7166666666666667,
+          "value": 535
+        }
+      ],
+      "y": [
+        {
+          "frame": 0.16666666666666666,
+          "value": 146.174
+        },
+        {
+          "frame": 0.3,
+          "value": 125
+        },
+        {
+          "frame": 0.45,
+          "value": 100
+        },
+        {
+          "frame": 0.5833333333333334,
+          "value": 75
+        },
+        {
+          "frame": 0.7166666666666667,
+          "value": 50
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.45,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1.2,
+            "y": 1.2
+          }
+        },
+        {
+          "frame": 0.7166666666666667,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1.0833333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1.25,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0.7166666666666667,
+          "value": 0
+        },
+        {
+          "frame": 0.7833333333333333,
+          "value": 3
+        },
+        {
+          "frame": 0.85,
+          "value": -3
+        },
+        {
+          "frame": 0.9166666666666666,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

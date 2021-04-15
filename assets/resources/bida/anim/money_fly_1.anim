@@ -1,0 +1,357 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "money_fly_1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "icon": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [
+                [
+                  -78,
+                  143,
+                  -21,
+                  89,
+                  -138,
+                  200
+                ]
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -235,
+                223
+              ],
+              "motionPath": []
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": true
+            },
+            {
+              "frame": 1.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "icon1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [
+                [
+                  -63,
+                  152,
+                  -11,
+                  97,
+                  -126,
+                  219
+                ]
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -233,
+                247
+              ],
+              "motionPath": []
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "icon2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [
+                [
+                  -155,
+                  70,
+                  -101,
+                  20,
+                  -212,
+                  123
+                ]
+              ]
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -224,
+                206
+              ],
+              "motionPath": []
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": true
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "icon3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [
+                [
+                  -148,
+                  58,
+                  -88,
+                  10,
+                  -205,
+                  103
+                ]
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -233,
+                186
+              ],
+              "motionPath": []
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": true
+            },
+            {
+              "frame": 1.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "icon4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -236,
+                222
+              ],
+              "motionPath": []
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": true
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "icon5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [
+                [
+                  -145,
+                  86,
+                  -88,
+                  33,
+                  -198,
+                  136
+                ]
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                -221,
+                207
+              ],
+              "motionPath": []
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": true
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "icon6": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                -240,
+                230
+              ],
+              "motionPath": []
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": true
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "icon7": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [
+                [
+                  -92,
+                  128,
+                  -34,
+                  74,
+                  -151,
+                  184
+                ]
+              ]
+            },
+            {
+              "frame": 1.65,
+              "value": [
+                -234,
+                220
+              ],
+              "motionPath": []
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": true
+            },
+            {
+              "frame": 1.65,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

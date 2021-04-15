@@ -1,0 +1,54 @@
+{
+"skeleton": {
+	"hash": "LP8HkdSqLr1p7PaXCdIL16BTpQU",
+	"spine": "3.8.99",
+	"x": -290.84,
+	"y": -5.99,
+	"width": 303,
+	"height": 66,
+	"images": "../Effect/gay viking/",
+	"audio": "E:/Vuong/8 pool slot/Spine/Effect/gay viking"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -287.57, "y": 20.4 }
+],
+"slots": [
+	{ "name": "1", "bone": "bone", "attachment": "1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"1": { "x": 148.22, "y": 6.61, "width": 303, "height": 66 },
+				"2": { "x": 182.72, "y": 7.11, "width": 358, "height": 71 },
+				"3": { "x": 217.72, "y": 7.11, "width": 404, "height": 63 },
+				"4": { "x": 273.72, "y": 8.61, "width": 412, "height": 60 },
+				"5": { "x": 321.22, "y": 6.61, "width": 465, "height": 72 },
+				"6": { "x": 410.72, "y": 5.11, "width": 392, "height": 75 },
+				"7": { "x": 466.22, "y": 2.11, "width": 341, "height": 65 },
+				"8": { "x": 469.22, "y": 4.11, "width": 265, "height": 59 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "time": 0.1, "name": "2" },
+					{ "time": 0.2, "name": "3" },
+					{ "time": 0.3, "name": "4" },
+					{ "time": 0.4, "name": "5" },
+					{ "time": 0.5, "name": "6" },
+					{ "time": 0.6, "name": "7" },
+					{ "time": 0.7, "name": "8" },
+					{ "time": 0.8, "name": "1" }
+				]
+			}
+		}
+	}
+}
+}

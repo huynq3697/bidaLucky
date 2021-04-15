@@ -1,0 +1,119 @@
+{
+"skeleton": {
+	"hash": "9cALQrWSGVBj383Cv+2MbNq99ZM",
+	"spine": "3.8.99",
+	"x": -126.86,
+	"y": 120.08,
+	"width": 254.5,
+	"height": 161.41,
+	"images": "",
+	"audio": "E:/Vuong/8 pool slot"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -44.56, "y": 256.38 }
+],
+"slots": [
+	{ "name": "back", "bone": "root", "attachment": "back" },
+	{ "name": "den2_sang", "bone": "root", "attachment": "den2_toi" },
+	{ "name": "den1_sang", "bone": "root", "attachment": "den1_toi" },
+	{ "name": "ball", "bone": "root", "attachment": "ball" },
+	{ "name": "text_ball", "bone": "root", "attachment": "text_ball" },
+	{ "name": "text_slot", "bone": "root", "attachment": "text_slot" },
+	{ "name": "shineball", "bone": "bone", "attachment": "shineball" },
+	{ "name": "shine1", "bone": "root", "attachment": "shine6" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"back": {
+				"back": { "x": -1.36, "y": 190.58, "width": 242, "height": 130 }
+			},
+			"ball": {
+				"ball": { "x": -26.82, "y": 221.49, "width": 119, "height": 120 }
+			},
+			"den1_sang": {
+				"den1_sang": { "x": 0.14, "y": 186.58, "width": 268, "height": 147 },
+				"den1_toi": { "x": 0.64, "y": 186.58, "width": 254, "height": 133 }
+			},
+			"den2_sang": {
+				"den2_sang": { "x": -0.36, "y": 189.58, "width": 268, "height": 149 },
+				"den2_toi": { "x": 0.14, "y": 189.58, "width": 254, "height": 135 }
+			},
+			"shine1": {
+				"shine1": { "x": 8.47, "y": 219.61, "width": 43, "height": 20 },
+				"shine2": { "x": 17.76, "y": 212.26, "width": 63, "height": 35 },
+				"shine3": { "x": 28.93, "y": 208.79, "width": 84, "height": 40 },
+				"shine4": { "x": 29.58, "y": 209.43, "width": 82, "height": 40 },
+				"shine5": { "x": 44.69, "y": 202.05, "width": 66, "height": 25 },
+				"shine6": { "x": 55.68, "y": 196.61, "width": 44, "height": 15 }
+			},
+			"shineball": {
+				"shineball": { "x": -2.12, "y": -3.34, "width": 31, "height": 30 }
+			},
+			"text_ball": {
+				"text_ball": { "x": 32.47, "y": 207.05, "width": 108, "height": 61 }
+			},
+			"text_slot": {
+				"text_slot": { "x": 0.71, "y": 167.84, "width": 161, "height": 69 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"den1_sang": {
+				"attachment": [
+					{ "time": 0.1333, "name": "den1_sang" },
+					{ "time": 0.2667, "name": "den1_toi" },
+					{ "time": 0.4, "name": "den1_sang" },
+					{ "time": 0.5333, "name": "den1_toi" },
+					{ "time": 0.6667, "name": "den1_sang" },
+					{ "time": 0.8, "name": "den1_toi" }
+				]
+			},
+			"den2_sang": {
+				"attachment": [
+					{ "name": "den2_sang" },
+					{ "time": 0.1333, "name": "den2_toi" },
+					{ "time": 0.2667, "name": "den2_sang" },
+					{ "time": 0.4, "name": "den2_toi" },
+					{ "time": 0.5333, "name": "den2_sang" },
+					{ "time": 0.6667, "name": "den2_toi" },
+					{ "time": 0.8, "name": "den2_sang" }
+				]
+			},
+			"shine1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1, "name": "shine1" },
+					{ "time": 0.1667, "name": "shine2" },
+					{ "time": 0.2333, "name": "shine3" },
+					{ "time": 0.3, "name": "shine4" },
+					{ "time": 0.3667, "name": "shine5" },
+					{ "time": 0.4333, "name": "shine6" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"shineball": {
+				"color": [
+					{ "color": "ffffff27" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff27" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 1.863, "y": 1.863 },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	}
+}
+}

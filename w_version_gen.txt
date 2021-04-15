@@ -1,0 +1,47 @@
+node version_generator.js -v 1.0.0 -u https://tai.chanhay.com/resources_chan_hay_com/remote-assets/ -s buildAll/build_chanhay_android/jsb-link/ -d remote-assetAll/resources_chan_hay_com
+
+key: chanhay/ 12345678a
+node vChanOffline.js -v 1.0.0 -u https://tai.chanhay.com/resources_chanoffline/remote-assets/ -s buildAll/ChanOffline242/jsb-link/ -d remote-assetAll/ChanOffline242
+
+
+
+
+
+-----------------
+ keytool -keystore zepplay.pool.slot.keystore -list -v
+Enter keystore password:  
+Keystore type: jks
+Keystore provider: SUN
+
+Your keystore contains 1 entry
+
+Alias name: zepplay.pool.slot
+Creation date: Mar 5, 2021
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=zepplay.pool.slot, OU=zepplay.pool.slot, O=zepplay.pool.slot, L=VietNam, ST=100000, C=vn
+Issuer: CN=zepplay.pool.slot, OU=zepplay.pool.slot, O=zepplay.pool.slot, L=VietNam, ST=100000, C=vn
+Serial number: 5411be91
+Valid from: Fri Mar 05 11:01:20 ICT 2021 until: Tue Feb 27 11:01:20 ICT 2046
+Certificate fingerprints:
+	 MD5:  E6:40:CF:97:F7:CE:62:2E:C2:97:E5:0D:F7:5D:2D:29
+	 SHA1: 7F:5E:B6:E9:FC:E7:FA:67:8A:2C:4F:28:40:CA:20:D9:EE:D1:D5:7B
+	 SHA256: DE:D9:FD:7E:8F:23:E8:A5:5E:A5:03:4A:7F:E8:4F:E0:F7:68:69:F7:EB:24:20:F7:B3:0B:62:AA:30:E0:B2:D2
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+--------------------------------
+😎Đây là game 8 ball slot đâu tiên, Bạn đã thử chơi Miễn phí chưa?
+😎Game lấy ý tưởng từ game 8 pool?
+
+Nếu bạn muốn luyện tập để chơi 8 pool thật giỏi thì đây là trò chơi của bạn.
+
+- Nhiệm vụ của bạn là đánh bi mục tiêu vào Tâm càng nhỏ thì phần thưởng càng lớn
+- Game có 2 chế độ chơi
+	+ Chơi 1 Bóng: bạn đánh vào tâm càng nhỏ phần thưởng càng lớn
+	+ Chơi 2 Bóng: khó hơn, trước khi đánh bóng mục tiêu bạn cần đánh vào bi điều phối trước
+
+
+🔔 Lưu ý:
+* 8 ball slot không cung cấp cờ bạc bằng tiền thật. Nó chỉ dành cho mục đích giải trí, và Luyện tập đánh 8 pool

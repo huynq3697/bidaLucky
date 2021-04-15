@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>box_chonban.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{275,0},{274,374}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{274,374}}</string>
+				<key>sourceSize</key>
+				<string>{274,374}</string>
+			</dict>
+
+			<key>box_chonban2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{274,375}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{274,375}}</string>
+				<key>sourceSize</key>
+				<string>{274,375}</string>
+			</dict>
+
+			<key>box_luatchoi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,376},{203,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{203,70}}</string>
+				<key>sourceSize</key>
+				<string>{203,70}</string>
+			</dict>
+
+			<key>chip1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{504,375},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{98,98}}</string>
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+
+			<key>chip2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{503,479},{117,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{117,116}}</string>
+				<key>sourceSize</key>
+				<string>{117,116}</string>
+			</dict>
+
+			<key>chip3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{340,375},{163,103}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{163,103}}</string>
+				<key>sourceSize</key>
+				<string>{163,103}</string>
+			</dict>
+
+			<key>chip4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{340,479},{162,149}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{162,149}}</string>
+				<key>sourceSize</key>
+				<string>{162,149}</string>
+			</dict>
+
+			<key>chip5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{172,447},{167,137}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{167,137}}</string>
+				<key>sourceSize</key>
+				<string>{167,137}</string>
+			</dict>
+
+			<key>gold.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,447},{171,181}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{171,181}}</string>
+				<key>sourceSize</key>
+				<string>{171,181}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{621,629}</string>
+			<key>textureFileName</key>
+			<string>store.png</string>
+			</dict>
+		</dict>
+</plist>

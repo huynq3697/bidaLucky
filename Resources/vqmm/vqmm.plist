@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Layer 10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{658,1343},{139,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{139,56}}</string>
+				<key>sourceSize</key>
+				<string>{139,56}</string>
+			</dict>
+
+			<key>btn_spin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{658,995},{173,173}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,1},{173,173}}</string>
+				<key>sourceSize</key>
+				<string>{175,175}</string>
+			</dict>
+
+			<key>btn_spin_off.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{658,1169},{173,173}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{173,173}}</string>
+				<key>sourceSize</key>
+				<string>{173,173}</string>
+			</dict>
+
+			<key>khung_spin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{776,780}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,1},{776,780}}</string>
+				<key>sourceSize</key>
+				<string>{778,782}</string>
+			</dict>
+
+			<key>spin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{658,781},{213,213}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,1},{213,213}}</string>
+				<key>sourceSize</key>
+				<string>{215,215}</string>
+			</dict>
+
+			<key>thanh_spin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{777,0},{82,174}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,1},{82,174}}</string>
+				<key>sourceSize</key>
+				<string>{84,176}</string>
+			</dict>
+
+			<key>vongquay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,781},{657,637}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,1},{657,637}}</string>
+				<key>sourceSize</key>
+				<string>{659,639}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{872,1419}</string>
+			<key>textureFileName</key>
+			<string>vqmm.png</string>
+			</dict>
+		</dict>
+</plist>
